@@ -17,8 +17,8 @@ Check out my [portfolio](https://github.com/celinargy/Portfolio-guide/blob/main/
 ## 🛠️ Tools
 
 - Languages: SQL, Python
-- Databases: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Databases (WIP!): Google BigQuery, PostgreSQL, MySQL
+- Visualization (WIP!): Tableau, Looker Studio
 
 ## 👋 Connect with Me
 
