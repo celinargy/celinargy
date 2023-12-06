@@ -1,14 +1,18 @@
 ### 🙋 Introducing Myself
 
-Hello, I'm Celine. With a strong educational foundation in business and over 5 years of experience as a former executive assistant, I have a deep curiosity for understanding how things work and finding ways to optimize them. My journey into the world of Data Analytics began through my academic pursuits, collaborating with industry partners and seasoned professionals from tech giants like Yandex.
+Hello, I'm Celine, bringing over 5 years of experience as an executive assistant and a strong business education. My journey into Data Analytics began during my academic pursuits, collaborating with industry leaders like Yandex.
 
-My experience provided me with an iron strength to navigate uncertainties and handle projects from start to end. I built strong resilience and I have a unique view of how customer-oriented services develop outside of EU, where digitalisation is faster and developments take place at a fast pace. 
+I excel in navigating uncertainties, managing projects from start to finish, and offer a unique perspective on customer-oriented services outside the EU where digitalization is rapid. Currently, I'm building a portfolio showcasing my skills in analytics, reporting, data modeling, and SQL/Python querying.
 
-I'm currently building a portfolio of small projects that showcase my prowess in analytics and reporting, data modeling, and SQL and Python querying.
+I'm also a good communicator and speak several languages: French, English, Spanish and Russian.
 
-- Skilled in Python for visualisation (Matplotlib, Seaborne), data manipulation and engineering (Numpy, Scipy), ML modelling (Sklearn)
-- Experienced in data analysis and reporting using Google Sheets and Excel through Python
-- Skilled in SQL for data querying, generating reports, and performing ad-hoc analyses
+Key Skills:
+
+- Python: Visualization (Matplotlib, Seaborn), data manipulation (Numpy, Scipy), and ML modeling (Sklearn).
+- Data Analysis: Proficient in Google Sheets and Excel through Python.
+- SQL: Experienced in data querying, report generation, and ad-hoc analyses.
+
+I'm eager to bring my analytical prowess to new challenges and contribute to meaningful projects.
 
 ## 📚 Projects
 
