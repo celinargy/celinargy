@@ -2,7 +2,7 @@
 
 Hello, I'm Celine, bringing over 5 years of experience as an executive assistant and a strong business education. My journey into Data Analytics began during my academic pursuits, collaborating with industry leaders like Yandex.
 
-I excel in navigating uncertainties, managing projects from start to finish, and offer a unique perspective on customer-oriented services outside the EU where digitalization is rapid. Currently, I'm building a portfolio showcasing my skills in analytics, reporting, data modeling, and SQL/Python querying.
+I gained strong skills project management  and offer a unique perspective on customer-oriented services outside the EU where digitalization is rapid. Currently, I'm building a portfolio showcasing my skills in analytics, reporting, data modeling, and SQL/Python querying. You can also find me on [Linkedin]([url](https://www.linkedin.com/in/celineargyropoulos/)).
 
 I'm also a good communicator and speak several languages: French, English, Spanish and Russian.
 
