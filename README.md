@@ -26,4 +26,4 @@ Check out my [portfolio](https://github.com/celinargy/Portfolio-guide/blob/main/
 
 ## 👋 Connect with Me
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/celineargyropoulos/). Feel free to reach out at [celine.argyropulos@gmail.com](mailto:celine.argyropoulos@gmail.com).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/celineargyropoulos/).
